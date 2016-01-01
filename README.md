@@ -4,9 +4,9 @@ A command-line tool for manipulating Impulse Tracker modules.
 
 Installation
 ------------
-	Install via the [go command](http://golang.org/cmd/go/):
+Install via the [go command](http://golang.org/cmd/go/):
 
-		go get -u github.com/jangler/ittool
+	go get -u github.com/jangler/ittool
 
 Usage
 -----
